@@ -6,7 +6,7 @@ This repository contains the privacy policy for the Simple Timer iOS app.
 
 The privacy policy is available in the following formats:
 - [Markdown](privacy-policy.md)
-- [Raw text](https://raw.githubusercontent.com/jlopez7/simple-timer-privacy/main/privacy-policy.md)
+- [Raw text](https://raw.githubusercontent.com/TheSimpleiOSDev/simple-timer-privacy/main/privacy-policy.md)
 
 ## About Simple Timer
 
