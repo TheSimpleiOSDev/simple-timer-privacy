@@ -52,7 +52,7 @@ We may update this Privacy Policy from time to time. We will notify users of any
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact us at:
 
-- **Email**: [Your contact email]
+- **Email**: thesimpleiosdev@gmail.com
 
 ## Compliance
 

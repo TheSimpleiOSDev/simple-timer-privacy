@@ -14,7 +14,7 @@ Simple Timer is a privacy-focused iOS app that allows users to create custom tim
 
 ## Contact
 
-For questions about this privacy policy, please contact us at [your-email@example.com].
+For questions about this privacy policy, please contact us at thesimpleiosdev@gmail.com.
 
 ---
 
